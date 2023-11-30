@@ -1,0 +1,9 @@
+name: GameOfLife
+version: '${project.version}'
+main: me.ominous.gameoflife.GameOfLife
+api-version: '1.20'
+commands:
+  start-life:
+    description: Starts the game of life
+  reset-life:
+    description: Resets the game
